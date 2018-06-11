@@ -1,0 +1,23 @@
+7
+0
+4
+i n c o
+6
+0 i 1
+1 n 2
+2 i 3
+3 c 4
+4 i 5
+5 o 6
+1
+6
+INICIO
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação

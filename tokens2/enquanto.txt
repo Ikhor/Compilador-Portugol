@@ -1,0 +1,25 @@
+9
+0
+7
+e n q u a t o
+8
+0 e 1
+1 n 2
+2 q 3
+3 u 4
+4 a 5
+5 n 6
+6 t 7
+7 o 8
+1
+8
+ENQUANTO
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação

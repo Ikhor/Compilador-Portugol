@@ -1,0 +1,25 @@
+9
+0
+7
+f i m _ p a r
+8
+0 f 1
+1 i 2
+2 m 3
+3 _ 4
+4 p 5
+5 a 6
+6 r 7
+7 a 8
+1
+8
+FIM_PARA
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação

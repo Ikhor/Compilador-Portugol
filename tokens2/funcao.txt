@@ -1,0 +1,14 @@
+7
+0
+6
+f u n c a o
+6
+0 f 1
+1 u 2
+2 n 3
+3 c 4
+4 a 5
+5 o 6
+1
+6
+FUNCAO_DECLARA

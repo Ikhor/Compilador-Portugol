@@ -1,0 +1,22 @@
+6
+0
+5
+e n t a o
+5
+0 e 1
+1 n 2
+2 t 3
+3 a 4
+4 o 5
+1
+5
+ENTAO
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação

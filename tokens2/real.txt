@@ -1,0 +1,21 @@
+5
+0
+4
+r e a l
+4
+0 r 1
+1 e 2
+2 a 3
+3 l 4
+1
+4
+REAL
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação

@@ -1,0 +1,26 @@
+10
+0
+6
+v a r i e s
+9
+0 v 1
+1 a 2
+2 r 3
+3 i 4
+4 a 5
+5 v 6
+6 e 7
+7 i 8
+8 s 9
+1
+9
+VARIAVEIS
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação

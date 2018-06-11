@@ -1,0 +1,20 @@
+4
+0
+3
+n a o
+3
+0 n 1
+1 a 2
+2 o 3
+1
+3
+OPERADOR_REL
+//formato do arquivo
+//Numero de estados
+//estado inicial
+//Qtd de elementos do alfabeto
+//Nomes dos elementos
+//qtd de funções de transições
+//funções de transições(Origem Rotulo Destino)
+//qtd de estados de aceitação
+//numeros dos estados que são de aceitação
